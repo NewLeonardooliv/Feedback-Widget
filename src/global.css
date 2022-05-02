@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    @apply bg-black
+}
+
+.balloon {
+    @apply w-6 h-6;
+}
+
+.corner {
+    @apply absolute bottom-5 right-5;
+}
+
+.feedback {
+    @apply max-w-0 overflow-hidden group-hover:max-w-xs transition-all duration-500 ease-linear;
+}
+
+.feedback2 {
+    @apply pl-3
+}
