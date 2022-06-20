@@ -1,6 +1,6 @@
-# Feedback-Widget
+## Feedback Widget
 
-![prompt](https://i.imgur.com/LsKi72n.png)
+![prompt](https://i.imgur.com/PYGz2Ao.png)
 
 
 ## 🚀 Projeto
