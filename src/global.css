@@ -2,9 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-
-body{
-    @apply bg-black
+body {
+    @apply bg-black;
 }
 
 .balloon {
@@ -12,7 +11,7 @@ body{
 }
 
 .corner {
-    @apply absolute bottom-5 right-5;
+    @apply absolute bottom-5 right-5 text-white flex flex-col items-end;
 }
 
 .feedback {
@@ -20,5 +19,9 @@ body{
 }
 
 .feedback2 {
-    @apply pl-3
+    @apply pl-3;
+}
+
+.widgetForm {
+    @apply bg-red-600 p-4 relative rounded-2xl mb-4 flex flex-col items-center shadow-lg w-[calc(100vw-2rem)] md:w-auto;
 }
