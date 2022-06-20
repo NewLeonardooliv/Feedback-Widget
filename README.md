@@ -5,7 +5,7 @@
 
 ## 🚀 Projeto
 
-Um Component Widget para feedback para ser utilizado em qualquer site.
+Um Componente Widget de Feedback's para ser utilizado em qualquer site.
 
 ## 🔧 Tecnologias
 
